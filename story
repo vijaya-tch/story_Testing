@@ -1,1 +1,1 @@
-cat and dog are good friends
+cat and dog are good friends.Both were happy.
